@@ -108,7 +108,7 @@ The main tasks for this exercise are as follows:
 
 1. From the **Policy** blade, navigate to the **Policy - Definitions** blade.
 
-1. From the **Policy Definitions** blade, display the **Require tag and its value** policy definition.
+1. From the **Policy Definitions** blade, display the **Require a tag and its value** policy definition.
 
 1. From the **Require a tag and its value on resources** policy definition blade, use the **Duplicate definition** feature to create a new policy with the following settings:
 
